@@ -2,8 +2,9 @@
 A simple, efficient and versatile Objective Space Algorithm for Multiobjective Integer Programming 
 
 If you use this code, please cite our paper:
-Dächert,K. and Fleuren,T. and Klamroth,K.
-A simple, efficient and versatile Objective Space Algorithm for Multiobjective Integer Programming 
+
+Dächert, K. and Fleuren,T. and Klamroth,K., 
+"A simple, efficient and versatile Objective Space Algorithm for Multiobjective Integer Programming",  
 Mathematical Methods of Operations Research
 
 
