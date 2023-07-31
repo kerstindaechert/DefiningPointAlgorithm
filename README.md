@@ -7,3 +7,5 @@ Dächert, K. and Fleuren,T. and Klamroth,K., "A simple, efficient and versatile 
 
 This repository contains folders for the source files (.cpp and .h), test instances, output files as well as folders with specific files for Windows users (Visual Studio) and Linux users (Makefile). 
 
+An executable file is contained in VisualStudio/bin, instructions to use it in usage.txt
+
