@@ -1,3 +1,0 @@
-### Defining Point algorithm
-
-Paper ...
